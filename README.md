@@ -27,5 +27,5 @@
 
 <h3>Где можно со мной связаться:</h3>
 
-Telegram - <a href="https://t.me/d0l1ssxx">d0L1s</a>
-VK - <a href="https://vk.com/ohhd0l1s">Расул Лимонов</a>
+<p>Telegram - <a href="https://t.me/d0l1ssxx">d0L1s</a></p>
+<p>VK - <a href="https://vk.com/ohhd0l1s">Расул Лимонов</a></p>
